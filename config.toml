@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "Purchase Poster"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made by [Magimug](magimug.net), [Hugo](http://gohugo.io) and [me](https://github.com/4mago)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
